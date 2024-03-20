@@ -1,10 +1,7 @@
 
 pandas
 numpy 
-pickle5
-scikit-learn
-matplotlib
-streamlit==1.5.0
-textblob==0.15.3
-beautifulsoup4==4.10.0
-requests==2.26.0
+streamlit
+textblob
+beautifulsoup4
+requests
